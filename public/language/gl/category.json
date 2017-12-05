@@ -1,0 +1,20 @@
+{
+    "category": "Categoría",
+    "subcategories": "Subcategoría",
+    "new_topic_button": "Novo tema",
+    "guest-login-post": "Inicia sesión para poder escribir mensaxes",
+    "no_topics": "<strong>Non hai temas nesta categoría.</strong><br />Por que non abres un?",
+    "browsing": "vendo agora",
+    "no_replies": "Ninguén respondeu",
+    "no_new_posts": "Non hai publicacións novas.",
+    "share_this_category": "Comparte esta categoría",
+    "watch": "Vixiar",
+    "ignore": "Ignorar",
+    "watching": "Seguindo",
+    "ignoring": "Ignorando",
+    "watching.description": "Amosa-los temas en \"non lidos\"",
+    "ignoring.description": "Non amosa-los temas en \"non lidos\"",
+    "watch.message": "Agora pode ver actualizacións desta categoría en tódalas subcategorías",
+    "ignore.message": "Agora estás ignorando as actualizacións desta categoría e tódalas subcategorías.",
+    "watched-categories": "Categorías vixiadas"
+}

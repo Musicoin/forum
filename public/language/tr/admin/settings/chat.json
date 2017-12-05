@@ -1,0 +1,9 @@
+{
+	"chat-settings": "Sohbet Ayarları",
+	"disable": "Sohbeti kapat",
+	"disable-editing": "Sohbet mesajlarını düzenlemeyi/silmeyi kapat",
+	"disable-editing-help": "Yöneticiler ve global moderatörler bu kısıtlamadan muaftır",
+	"max-length": "Maksimum sohbet mesajı uzunluğu",
+	"max-room-size": "Sohbet odalarındaki maksimum kullanıcı sayısı",
+	"delay": "Sohbet mesajları arasındaki süre (milisaniye)"
+}

@@ -1,0 +1,21 @@
+{
+    "latest_users": "Derniers inscrits",
+    "top_posters": "Actifs",
+    "most_reputation": "Réputés",
+    "most_flags": "Les plus souvent signalés",
+    "search": "Rechercher",
+    "enter_username": "Entrez le nom d'un utilisateur",
+    "load_more": "Charger la suite",
+    "users-found-search-took": "%1 utilisateur(s) trouvé(s)! La recherche a pris %2 secondes.",
+    "filter-by": "Filtrer par",
+    "online-only": "En ligne uniquement",
+    "invite": "Invitation",
+    "invitation-email-sent": "Un email d'invitation a été envoyé à %1",
+    "user_list": "Liste d'Utilisateurs",
+    "recent_topics": "Sujets Récents",
+    "popular_topics": "Sujets Populaires",
+    "unread_topics": "Sujets Non-Lus",
+    "categories": "Catégories",
+    "tags": "Mots-clés",
+    "no-users-found": "Aucun utilisateur trouvé !"
+}

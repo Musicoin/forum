@@ -1,0 +1,18 @@
+{
+	"you-are-on": "Bilgi - Buradasınız: <strong>%1:%2</strong>",
+	"nodes-responded": "%2ms içinde %1 düğüm yanıt verdi!",
+	"host": "sunucu",
+	"pid": "pid",
+	"nodejs": "nodejs",
+	"online": "çevrimiçi",
+	"git": "git",
+	"memory": "hafıza",
+	"load": "yükle",
+	"uptime": "kesintisiz çalışma süresi",
+
+	"registered": "Kayıtlı",
+	"sockets": "Soketler",
+	"guests": "Ziyaretçiler",
+
+	"info": "Bilgi"
+}

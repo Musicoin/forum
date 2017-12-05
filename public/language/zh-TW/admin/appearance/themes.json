@@ -1,0 +1,11 @@
+{
+    "checking-for-installed": "正在載入已安裝的主題...",
+    "homepage": "首頁",
+    "select-theme": "選擇主題",
+    "current-theme": "目前的主題",
+    "no-themes": "沒有找到任何已安裝的主題",
+    "revert-confirm": "你確定要回復預設的主題嗎？",
+    "theme-changed": "主題已更換",
+    "revert-success": "已經成功回復為預設主題。",
+    "restart-to-activate": "請重新啟動你的NodeBB以啟動主題。"
+}

@@ -1,0 +1,75 @@
+{
+	"section-general": "Všeobecné",
+	"general/dashboard": "Nástěnka",
+	"general/homepage": "Domovská stránka",
+	"general/navigation": "Navigace",
+	"general/languages": "Jazyky",
+	"general/sounds": "Zvuky",
+	"general/social": "Sociální",
+
+	"section-manage": "Spravovat",
+	"manage/categories": "Kategorie",
+	"manage/tags": "Značky",
+	"manage/users": "Uživatelé",
+	"manage/registration": "Registrační fronta",
+	"manage/post-queue": "Fronta příspěvků",
+	"manage/groups": "Skupiny",
+	"manage/ip-blacklist": "Černá listina IP",
+
+	"section-settings": "Nastavení",
+	"settings/general": "Všeobecné",
+	"settings/reputation": "Reputace",
+	"settings/email": "E-mail",
+	"settings/user": "Uživatel",
+	"settings/group": "Skupina",
+	"settings/guest": "Hosté",
+	"settings/uploads": "Nahrané",
+	"settings/post": "Příspěvěk",
+	"settings/chat": "Konverzace",
+	"settings/pagination": "Stránkování",
+	"settings/tags": "Značky",
+	"settings/notifications": "Oznámení",
+	"settings/cookies": "Cookies",
+	"settings/web-crawler": "Webový prohledávač",
+	"settings/sockets": "Sockety",
+	"settings/advanced": "Pokročilé",
+
+	"settings.page-title": "Nastavení %1",
+
+	"section-appearance": "Vzhled",
+	"appearance/themes": "Motivy",
+	"appearance/skins": "Vzhledy",
+	"appearance/customise": "Custom Content (HTML/JS/CSS)",
+
+	"section-extend": "Rozšířit",
+	"extend/plugins": "Rozšíření",
+	"extend/widgets": "Miniaplikace",
+	"extend/rewards": "Odměny",
+
+	"section-social-auth": "Sociální autentifikace",
+
+	"section-plugins": "Rozšíření",
+	"extend/plugins.install": "Nainstalovat rozšíření",
+
+	"section-advanced": "Pokročilé",
+	"advanced/database": "Databáze",
+	"advanced/events": "Události",
+	"advanced/logs": "Protokoly",
+	"advanced/errors": "Chyby",
+	"advanced/cache": "Mezipamě",
+	"development/logger": "Protokolář",
+	"development/info": "Informace",
+
+	"reload-forum": "Znovu načíst fórum",
+	"restart-forum": "Restartovat fórum",
+	"logout": "Odhlásit",
+	"view-forum": "Zobrazit fórum",
+
+	"search.placeholder": "Search for settings",
+	"search.no-results": "Žádné výsledky…",
+	"search.search-forum": "Prohledat fórum pro <strong></strong>",
+	"search.keep-typing": "Pište dále pro zobrazení výsledků…",
+	"search.start-typing": "Začněte psát pro zobrazení výsledků…",
+
+	"connection-lost": "Připojení k %1 bylo ztraceno, snaha o opětovné připojení…"
+}

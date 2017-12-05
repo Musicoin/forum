@@ -1,0 +1,21 @@
+{
+    "latest_users": "Legújabb felhasználók",
+    "top_posters": "Legaktívabbak",
+    "most_reputation": "Legnépszerűbbek",
+    "most_flags": "Legjelentettebbek",
+    "search": "Keresés",
+    "enter_username": "Írj be egy nicknevet a kereséshez",
+    "load_more": "Több betöltése",
+    "users-found-search-took": "%1 felhasználó találat! A keresés %2 másodpercet vett igénybe.",
+    "filter-by": "Szűrés Eszerint",
+    "online-only": "Csak online",
+    "invite": "Meghívás",
+    "invitation-email-sent": "Egy meghívó email el lett küldve %1 részére",
+    "user_list": "Felhasználólista",
+    "recent_topics": "Friss Témák",
+    "popular_topics": "Népszerű Témák",
+    "unread_topics": "Olvasatlan Témák",
+    "categories": "Kategóriák",
+    "tags": "Címkék",
+    "no-users-found": "Nincs felhasználó találat!"
+}

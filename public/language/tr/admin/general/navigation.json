@@ -1,0 +1,28 @@
+{
+	"icon": "İkon:",
+	"change-icon": "değiştir",
+	"route": "Yol:",
+	"tooltip": "Araç Bilgisi:",
+	"text": "Yazı:",
+	"text-class": "Metin Sınıfı: <small>opsiyonel</small>",
+	"id": "ID: <small>opsiyonel</small>",
+
+	"properties": "Özellikler:",
+	"only-admins": "Yalnızca Yöneticiler görüntüleyebilir",
+	"only-global-mods-and-admins": "Yalnızca Global Moderatörler ve Yöneticiler görüntüleyebilir",
+	"only-logged-in": "Yalnızca giriş yapmış olan kullanıcılar görüntüleyebilir",
+	"only-guest": "Yalnızca ziyaretçiler görüntüleyebilir",
+	"open-new-window": "Yeni pencerede aç",
+
+	"installed-plugins-required": "Yüklü Eklentilerin Gereksinimleri:",
+	"search-plugin": "Eklenti ara",
+
+	"btn.delete": "Sil",
+	"btn.disable": "Devre dışı",
+	"btn.enable": "Etkin",
+
+	"available-menu-items": "Kullanılabilir Menü Öğeleri",
+	"custom-route": "Özel Yol",
+	"core": "çekirdek",
+	"plugin": "eklenti"
+}
