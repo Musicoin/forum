@@ -1,0 +1,19 @@
+{
+    "title": "Последние",
+    "day": "День",
+    "week": "Неделя",
+    "month": "Месяц",
+    "year": "Год",
+    "alltime": "За всё время",
+    "no_recent_topics": "Нет свежих тем.",
+    "no_popular_topics": "Популярные темы отсутствуют.",
+    "there-is-a-new-topic": "Опубликована новая тема.",
+    "there-is-a-new-topic-and-a-new-post": "Опубликована новая тема и новая запись.",
+    "there-is-a-new-topic-and-new-posts": "Опубликована новая тема и %1 новых записей.",
+    "there-are-new-topics": "Опубликовано %1 новых тем.",
+    "there-are-new-topics-and-a-new-post": "Опубликовано %1 новых тем и новая запись.",
+    "there-are-new-topics-and-new-posts": "Опубликовано %1 новых тем и %2 новых записей.",
+    "there-is-a-new-post": "Опубликована новая запись.",
+    "there-are-new-posts": "Опубликовано %1 новых записей.",
+    "click-here-to-reload": "Нажмите здесь, чтобы перезагрузить список."
+}

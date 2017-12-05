@@ -1,0 +1,12 @@
+{
+	"general": "Ogólne",
+	"private-groups": "Grupy prywatne",
+	"private-groups.help": "Jeśli włączone, dołączenie do grupy wymaga zatwierdzenia przez właściciela grupy <em>(domyślnie: włączone)</em>",
+	"private-groups.warning": "<strong>Uwaga!</strong> Jeśli ta opcja jest wyłączona i masz prywatne grupy, automatycznie stają się one publiczne.",
+	"allow-creation": "Zezwalaj na tworzeni grup",
+	"allow-creation-help": "Jeśli włączone, użytkownicy mogą tworzyć grupy <em>(domyślnie: wyłączone)</em>",
+	"max-name-length": "Maksymalna długość nazwy grupy",
+	"cover-image": "Obraz profilowy grupy",
+	"default-cover": "Domyślne obrazy profilowe",
+	"default-cover-help": "Dodaj rozdzielone kropką domyślne obrazy profili grup, które nie wysłały własnych "
+}

@@ -1,0 +1,9 @@
+{
+	"reputation": "Ustawienia reputacji",
+	"disable": "Wyłącz system reputacji",
+	"disable-down-voting": "Wyłącz system \"głosów przeciw\"",
+	"votes-are-public": "Wszystkie głosy są publiczne",
+	"thresholds": "Progi aktywności",
+	"min-rep-downvote": "Minimalna reputacja, aby negatywnie oceniać posty",
+	"min-rep-flag": "Minimalna reputacja, aby flagować posty"
+}

@@ -1,0 +1,9 @@
+{
+	"chat-settings": "ตั้งค่าแชท",
+	"disable": "ปิดการใช้งานแชท",
+	"disable-editing": "ปิดการแก้ไข และการลบแชท",
+	"disable-editing-help": "Administrators and global moderators are exempt from this restriction",
+	"max-length": "จำนวนอักขระมากที่มากที่สุดต่อแชท",
+	"max-room-size": "จำนวนผู้ใช้ในห้องแชทมากที่สุด",
+	"delay": "Time between chat messages in milliseconds"
+}

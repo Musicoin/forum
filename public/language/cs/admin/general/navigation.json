@@ -1,0 +1,28 @@
+{
+	"icon": "Ikona:",
+	"change-icon": "změnit",
+	"route": "Cesta:",
+	"tooltip": "Tip:",
+	"text": "Text:",
+	"text-class": "Textová třída: <small>doporučené</small>",
+	"id": "ID: <small>doporučené</small>",
+
+	"properties": "Vlastnosti:",
+	"only-admins": "Zobrazuje se jen správci",
+	"only-global-mods-and-admins": "Zobrazuje se jen hlavním moderátorům a správcům",
+	"only-logged-in": "Zobrazuje se jen přihlášeným uživatelům",
+	"only-guest": "Zobrazit jen hostům",
+	"open-new-window": "Otevřít v novém okně",
+
+	"installed-plugins-required": "Vyžadovaná nainstalovaná rozšíření:",
+	"search-plugin": "Hledat rozšíření",
+
+	"btn.delete": "Odstranit",
+	"btn.disable": "Zakázat",
+	"btn.enable": "Povolit",
+
+	"available-menu-items": "Dostupné položky nabídky",
+	"custom-route": "Upravit cestu",
+	"core": "jádro",
+	"plugin": "rozšíření"
+}

@@ -1,0 +1,9 @@
+{
+	"reputation": "Nastavení reputace",
+	"disable": "Zakázat systém reputace",
+	"disable-down-voting": "Zakázat hlasování",
+	"votes-are-public": "Všechna hlasování jsou veřejná",
+	"thresholds": "Omezení aktivity",
+	"min-rep-downvote": "Minimální reputace pro vyjádření nesouhlasu s příspěvkem",
+	"min-rep-flag": "Minimální reputace pro označení příspěvků"
+}

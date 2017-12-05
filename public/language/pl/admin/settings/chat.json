@@ -1,0 +1,9 @@
+{
+	"chat-settings": "Ustawienia czatu",
+	"disable": "Wyłącz czat",
+	"disable-editing": "Wyłącz edycję/kasowanie wiadomości czat",
+	"disable-editing-help": "Administratorzy oraz moderatorzy globalni są wyjęci spod tego ograniczenia",
+	"max-length": "Maksymalna długość wiadomości czat",
+	"max-room-size": "Maksymalna liczba użytkowników w pokojach czatu.",
+	"delay": "Czas pomiędzy wiadomościami czat (w milisekundach)"
+}

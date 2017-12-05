@@ -1,0 +1,11 @@
+{
+	"post-queue": "Beitragswarteschlange",
+	"description": "Es sind keine Beiträge in der Warteschlange.<br> Bitte gehe zu <a href=\"%1\">Einstellungen &rarr; Beiträge &rarr; Posting Beschränkungen</a> und aktiviere <strong>Beitragswarteschlange</strong> für diese Funktion.",
+	"user": "Benutzer",
+	"category": "Kategorie",
+	"title": "Titel",
+	"content": "Inhalt",
+	"posted": "Gepostet",
+	"reply-to": "Auf \"%1\" antworten",
+	"content-editable": "Du kannst auf den einzelnen Inhalt klicken um ihn zu ändern bevor du ihn postest."
+}

@@ -1,0 +1,12 @@
+{
+    "tag": "Etiket Ayarları",
+    "min-per-topic": "Konu Başına Minimum Etiket Sayısı",
+    "max-per-topic": "Konu Başına Maksimum Etiket Sayısı",
+    "min-length": "Minimum Etiket Uzunluğu",
+    "max-length": "Maksimum Etiket Uzunluğu",
+    "goto-manage": "Etiketi yönetim sayfasını ziyaret etmek için buraya tıklayın",
+    "privacy": "Gizlilik",
+    "list-private": "Etiket listesini özel yap",
+    "related-topics": "İlgili Konular",
+    "max-related-topics": "Görüntülenecek maksimum ilgili konu sayısı (Tema destekliyorsa)"
+}

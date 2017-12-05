@@ -1,0 +1,21 @@
+{
+    "latest_users": "Ultimii Utilizatori",
+    "top_posters": "Top Utilizatori",
+    "most_reputation": "Cei mai apreciați utilizatori",
+    "most_flags": "Most Flags",
+    "search": "Căutare",
+    "enter_username": "Introdu un nume de utilizator pentru a căuta",
+    "load_more": "Încarcă mai multe",
+    "users-found-search-took": "%1 user(s) found! Search took %2 seconds.",
+    "filter-by": "Filter By",
+    "online-only": "Numai online",
+    "invite": "Invită",
+    "invitation-email-sent": "An invitation email has been sent to %1",
+    "user_list": "Listă utilizatori",
+    "recent_topics": "Subiecte Noi",
+    "popular_topics": "Subiecte Populare",
+    "unread_topics": "Subiecte Necitite",
+    "categories": "Categorii",
+    "tags": "Taguri",
+    "no-users-found": "No users found!"
+}

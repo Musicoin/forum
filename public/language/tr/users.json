@@ -1,0 +1,21 @@
+{
+    "latest_users": "En Yeni Kullanıcılar",
+    "top_posters": "En Fazla Gönderim Yapanlar",
+    "most_reputation": "En Saygın",
+    "most_flags": "En Fazla Bayrak",
+    "search": "Ara",
+    "enter_username": "Aramak için bir kullanıcı adı girin",
+    "load_more": "Daha Fazla Yükle",
+    "users-found-search-took": "%1 kullanıcı(lar) bulundu! Arama %2 saniye sürdü.",
+    "filter-by": "Şu şekilde filtrele",
+    "online-only": "Sadece çevrimiçi",
+    "invite": "Davet et",
+    "invitation-email-sent": "%1'e bir davet e-postası gönderildi",
+    "user_list": "Kullanıcı Listesi",
+    "recent_topics": "Güncel Başlıklar",
+    "popular_topics": "Popüler Başlıklar",
+    "unread_topics": "Okunmamış Başlıklar",
+    "categories": "Kategoriler",
+    "tags": "Etiketler",
+    "no-users-found": "Kullanıcı bulunamadı!"
+}

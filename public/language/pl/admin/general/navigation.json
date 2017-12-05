@@ -1,0 +1,28 @@
+{
+	"icon": "Ikona:",
+	"change-icon": "zmień",
+	"route": "Ścieżka:",
+	"tooltip": "Tooltip:",
+	"text": "Tekst:",
+	"text-class": "Klasa tekstu <small>opcjonalnie</small>",
+	"id": "ID: <small>opcjonalnie</small>",
+
+	"properties": "Ustawienia:",
+	"only-admins": "Pokazuj tylko administratorom",
+	"only-global-mods-and-admins": "Pokazuj tylko globalnym moderatorom oraz administratorom",
+	"only-logged-in": "Pokazuj tylko zalogowanym użytkownikom",
+	"only-guest": "Pokazuj tylko gościom",
+	"open-new-window": "Otwórz w nowym oknie",
+
+	"installed-plugins-required": "Wymagane zainstalowane wtyczki:",
+	"search-plugin": "Wyszukiwarka",
+
+	"btn.delete": "Usuń",
+	"btn.disable": "Wyłącz",
+	"btn.enable": "Włącz",
+
+	"available-menu-items": "Dostępne obiekty menu",
+	"custom-route": "Niestandardowa ścieżka",
+	"core": "system",
+	"plugin": "wtyczka"
+}

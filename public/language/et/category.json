@@ -1,0 +1,20 @@
+{
+    "category": "Kategooria",
+    "subcategories": "Alamkategooriad",
+    "new_topic_button": "Uus teema",
+    "guest-login-post": "Postitamiseks logi sisse",
+    "no_topics": "<strong>Kahjuks ei leidu siin kategoorias ühtegi teemat.</strong><br />Soovid postitada?",
+    "browsing": "vaatab",
+    "no_replies": "Keegi pole vastanud",
+    "no_new_posts": "Uusi postitusi pole",
+    "share_this_category": "Jaga seda kategooriat",
+    "watch": "Vaata",
+    "ignore": "Ignoreeri",
+    "watching": "Vaatab",
+    "ignoring": "Ignoreerib",
+    "watching.description": "Näita teemasid lugemata teemade hulgas",
+    "ignoring.description": "Ära näita teemasid lugemata teemade hulgas",
+    "watch.message": "You are now watching updates from this category and all subcategories",
+    "ignore.message": "You are now ignoring updates from this category and all subcategories",
+    "watched-categories": "Jälgitavad kategooriad"
+}

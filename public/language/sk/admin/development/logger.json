@@ -1,0 +1,12 @@
+{
+	"logger-settings": "Nastavenia protokolov",
+	"description": "Povolením začiarkavacích políčok budete dostávať protokoly do terminálu. Ak zadáte cestu, protokoly sa potom uložia do súboru. HTTP protokolovanie je užitočné pri zbere štatistických údajov o tom, kto, kedy a čo ľudia pristupujú na vaše fórum. Okrem zaznamenávania požiadaviek HTTP môžeme zaznamenať udalosti socket.io. Socket.io protokolovanie v kombinácii s monitorom redis-cli môže byť veľmi užitočné pre učenie NodeBB vstavby.",
+	"explanation": "Simply check/uncheck the logging settings to enable or disable logging on the fly. No restart needed.",
+	"enable-http": "Enable HTTP logging",
+	"enable-socket": "Enable socket.io event logging",
+	"file-path": "Path to log file",
+	"file-path-placeholder": "/path/to/log/file.log ::: leave blank to log to your terminal",
+
+	"control-panel": "Logger Control Panel",
+	"update-settings": "Update Logger Settings"
+}
