@@ -104,13 +104,13 @@ Controllers.login = function (req, res, next) {
 	data.error = req.flash('error')[0] || errorText;
 	data.title = '[[pages:login]]';
 
-	if (!data.allowLocalLogin && !data.allowRegistration && data.alternate_logins && data.authentication.length === 1) {
+	if (!data.allowLocalLogin && !data.allowRegistration) {
 		if (res.locals.isAPI) {
 			return helpers.redirect(res, {
-				external: nconf.get('relative_path') + data.authentication[0].url,
+				external: 'https://musicoin.org/welcome',
 			});
 		}
-		return res.redirect(nconf.get('relative_path') + data.authentication[0].url);
+		return res.redirect('https://musicoin.org/welcome');
 	}
 	if (req.uid) {
 		user.getUserFields(req.uid, ['username', 'email'], function (err, user) {
